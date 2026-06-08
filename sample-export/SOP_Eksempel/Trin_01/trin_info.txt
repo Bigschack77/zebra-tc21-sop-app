@@ -1,0 +1,4 @@
+Trin: 1
+Overskrift: Sluk maskinen
+Beskrivelse:
+Sluk maskinen på hovedafbryderen og kontroller at alt er stoppet før rengøring påbegyndes.
