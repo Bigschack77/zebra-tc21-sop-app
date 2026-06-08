@@ -1,0 +1,4 @@
+Trin: 2
+Overskrift: Rengør overflader
+Beskrivelse:
+Aftør alle relevante overflader med godkendt rengøringsmiddel og ren klud.
